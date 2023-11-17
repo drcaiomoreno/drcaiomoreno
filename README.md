@@ -9,6 +9,10 @@ Opinions are my own.
 For many years, I was using another GitHub repo:
 https://github.com/caiomsouza
 
+Former: Microsoft, Avanade/Accenture, AOL(America Online), IT4biz Global (CEO/Founder), Pentaho, Hitachi, Brazil's Health Ministry, Brazil's National Regulatory Agency for Private Health Insurance and Plans (ANS), UNIOESTE and EOI University Professor 
+
+
+
 <!--
 **drcaiomoreno/drcaiomoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
