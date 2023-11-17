@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Dr. Caio Moreno is a Solution Architect at Databricks and Adjunct Professor at IE University. He has experience in artificial intelligence, machine learning, big data, IoT, distributed systems, analytics, streaming, business intelligence, data integration and visualization. He holds a Ph.D. in Data Science/Big Data from the Complutense University of Madrid.
+Dr. Caio Moreno is a Solution Architect at Databricks and Adjunct Professor at IE University. 
+He has experience in artificial intelligence, machine learning, big data, IoT, distributed systems, analytics, streaming, business intelligence, data integration and visualization. He holds a Ph.D. in Data Science/Big Data from the Complutense University of Madrid.
 
 
 Opinions are my own.
