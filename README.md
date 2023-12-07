@@ -8,7 +8,7 @@ https://github.com/caiomsouza
 
 Prof. Dr. Caio Moreno is an expert in Big Data (Hadoop, Spark, Kafka), Data Science, Machine Learning and Generative AI. 
 
-He is a Adjunct Professor at IE University and a Solutions Architect and Data Scientist at Databricks (company creator of Apache Spark, MLFlow and Delta). 
+He is an Adjunct Professor at IE University and a Solutions Architect and Data Scientist at Databricks (company creator of Apache Spark, MLFlow and Delta). 
 
 He has experience in artificial intelligence, machine learning, big data, IoT, distributed systems, analytics, streaming, business intelligence, data integration and visualization.
 
