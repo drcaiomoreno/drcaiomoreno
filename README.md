@@ -23,6 +23,8 @@ LinkedIn: https://www.linkedin.com/in/caiomsouza/
 
 Former: Microsoft, Avanade/Accenture, AOL(America Online), IT4biz Global (CEO/Founder), Pentaho, Hitachi, Brazil's Health Ministry, Brazil's National Regulatory Agency for Private Health Insurance and Plans (ANS), UNIOESTE and EOI University Professor 
 
+### The Word of Wisdom: A Health Code
+https://www.youtube.com/watch?v=1hQoAnqIt0w<BR>
 
 
 <!--
