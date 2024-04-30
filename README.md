@@ -8,7 +8,7 @@ https://github.com/caiomsouza
 
 Prof. Dr. Caio Moreno is an expert in Big Data (Hadoop, Spark, Kafka), Data Science, Machine Learning and Generative AI. 
 
-He is an Adjunct Professor at IE University and a Solutions Architect and Data Scientist at Databricks (company creator of Apache Spark, MLFlow and Delta). 
+He is an Adjunct Professor at IE University and a Solutions Architect and Data Scientist at Databricks (company creator of Apache Spark, MLFlow, Delta and DBRX). 
 
 He has experience in artificial intelligence, machine learning, big data, IoT, distributed systems, analytics, streaming, business intelligence, data integration and visualization.
 
@@ -19,9 +19,6 @@ Former: Microsoft, Avanade/Accenture, AOL(America Online), IT4biz Global (CEO/Fo
 He enjoys outdoor activities such as hiking, cycling, football (Real Madrid fan), swimming, surfing, and spending time with his three daughters and wife.
 
 LinkedIn: https://www.linkedin.com/in/caiomsouza/
-
-
-Former: Microsoft, Avanade/Accenture, AOL(America Online), IT4biz Global (CEO/Founder), Pentaho, Hitachi, Brazil's Health Ministry, Brazil's National Regulatory Agency for Private Health Insurance and Plans (ANS), UNIOESTE and EOI University Professor 
 
 ### The Word of Wisdom: A Health Code
 https://www.youtube.com/watch?v=1hQoAnqIt0w<BR>
