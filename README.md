@@ -16,8 +16,7 @@ LinkedIn: https://www.linkedin.com/in/caiomsouza/
 
 (Opinions are my own)
 
-For many years, I was using another GitHub repo:
-https://github.com/caiomsouza
+Previously his main personal GitHub repo was: https://github.com/caiomsouza
 
 
 ### The Word of Wisdom: A Health Code
