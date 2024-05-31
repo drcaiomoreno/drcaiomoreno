@@ -10,7 +10,7 @@ He holds a Ph.D. in Machine Learning / AI / Data Science / Big Data from the Com
 
 Former: Microsoft, Avanade/Accenture, AOL(America Online), IT4biz Global (CEO/Founder), Pentaho, Hitachi, Brazil's Health Ministry, Brazil's National Regulatory Agency for Private Health Insurance and Plans (ANS), UNIOESTE and EOI University Professor
 
-He enjoys outdoor activities such as hiking, cycling, football (Real Madrid fan), swimming, surfing, and spending time with his three daughters and wife.
+He enjoys outdoor activities such as hiking, cycling, football (Real Madrid and Sao Paulo fan), swimming, surfing, and spending time with his three daughters and wife.
 
 LinkedIn: https://www.linkedin.com/in/caiomsouza/
 
