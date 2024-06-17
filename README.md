@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Prof. Dr. Caio Moreno is an expert in Generative AI, Machine Learning, Big Data (Hadoop, Spark, Kafka) and Data Science.
+Caio Moreno is an expert in Generative AI, Machine Learning, Big Data (Hadoop, Spark, Kafka) and Data Science.
 
 He is an Adjunct Professor/Researcher at @IEuniversity, @UniversidadVIU, @unicomplutense and a Solutions Architect/Data Scientist at Databricks (company creator of Apache Spark, MLFlow, Delta and DBRX). 
 
