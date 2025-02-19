@@ -27,6 +27,9 @@ https://www.youtube.com/watch?v=E3-CpzZJl8w
 ### The Word of Wisdom: A Health Code
 https://www.youtube.com/watch?v=1hQoAnqIt0w<BR>
 
+### Big Data and AI Books:
+[List of Big Data and AI Books:](https://github.com/drcaiomoreno/books)
+
 
 <!--
 **drcaiomoreno/drcaiomoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
