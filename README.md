@@ -18,6 +18,9 @@ LinkedIn: https://www.linkedin.com/in/caiomsouza/
 
 Previously his main personal GitHub repo was: https://github.com/caiomsouza
 
+### Jesus Christ Is Our Savior
+https://www.churchofjesuschrist.org/comeuntochrist/believe/jesus
+
 ### The Family Proclamation
 https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng
 
