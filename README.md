@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible. Matthew 19:26.<BR>
+The LORD is my shepherd; I shall not want.Psalm 23:1<BR>
+I know that I know nothing.Plato.<BR>
+The only true wisdom is in knowing you know nothing. Socrates.<BR>
+
+
 Caio Moreno is an expert in Generative AI, Machine Learning, Big Data (Hadoop, Spark, Kafka) and Data Science.
 
 He is an Adjunct Professor/Researcher at @IEuniversity, @UniversidadVIU, @unicomplutense and a Solutions Architect/Data Scientist at Databricks (company creator of Apache Spark, MLFlow, Delta and DBRX). 
