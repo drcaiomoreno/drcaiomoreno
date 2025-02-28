@@ -4,6 +4,7 @@
 * The LORD is my shepherd; I shall not want.Psalm 23:1<BR>
 * I know that I know nothing.Plato.<BR>
 * The only true wisdom is in knowing you know nothing. Socrates.<BR>
+* "Success is walking from failure to failure with no loss of enthusiasm." Winston Churchill
 
 
 Caio Moreno is an expert in Generative AI, Machine Learning, Big Data (Hadoop, Spark, Kafka) and Data Science.
