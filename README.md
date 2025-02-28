@@ -18,14 +18,17 @@ LinkedIn: https://www.linkedin.com/in/caiomsouza/
 
 Previously his main personal GitHub repo was: https://github.com/caiomsouza
 
+### The Family Proclamation
+https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng
+
+### The Word of Wisdom: A Health Code
+https://www.youtube.com/watch?v=1hQoAnqIt0w<BR>
+
 ### May the Force be with you
 https://www.youtube.com/watch?v=PrMIdke9_Yc
 
 ### Try not. Do. Or do not. There is no try.
 https://www.youtube.com/watch?v=E3-CpzZJl8w
-
-### The Word of Wisdom: A Health Code
-https://www.youtube.com/watch?v=1hQoAnqIt0w<BR>
 
 ### Big Data and AI Books
 [List of Big Data and AI Books](https://github.com/drcaiomoreno/books)
