@@ -34,6 +34,9 @@ https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-t
 ### The Word of Wisdom: A Health Code
 https://www.youtube.com/watch?v=1hQoAnqIt0w<BR>
 
+### The virtues that counteract each of the seven deadly sins — often called the “contrary” or “heavenly” virtues
+https://caiomsouza.medium.com/the-virtues-that-counteract-each-of-the-seven-deadly-sins-often-called-the-contrary-or-cf1308752d3e<BR>
+
 ### May the Force be with you
 https://www.youtube.com/watch?v=PrMIdke9_Yc
 
